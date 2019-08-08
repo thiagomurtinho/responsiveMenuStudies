@@ -1,6 +1,6 @@
 /* Reset css from all documents */
 * {
-    margin: 0;
+    margin: 0; 
     padding: 0;
     box-sizing: border-box;
 }
@@ -10,7 +10,7 @@ body {
 }
 
 nav {
-    height: 10vh; /* configuraton height for nav  */
+    height: 6vh; /* configuraton height for nav  */
     background: #5b78c7;
 }
 
@@ -56,6 +56,7 @@ nav {
 
     nav {
         position: relative;
+        height:8vh;
     }
 
     .hamburger {
